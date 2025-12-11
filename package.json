@@ -1,0 +1,26 @@
+{
+  "name": "man-behind-the-three",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/alifoo/man-behind-the-three#readme",
+  "bugs": {
+    "url": "https://github.com/alifoo/man-behind-the-three/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifoo/man-behind-the-three.git"
+  },
+  "license": "ISC",
+  "author": "alifoo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "three": "^0.182.0"
+  },
+  "devDependencies": {
+    "vite": "^7.2.7"
+  }
+}
